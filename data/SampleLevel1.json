@@ -1,12 +1,12 @@
 {
-    "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
+    "id": 59075347,
+    "name": "Tartarus",
+    "author": "ItzDolphy",
     "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": 56,
-    "password": "Not Copyable",
+    "verifier": "SleepSlope",
+    "verification": "https://youtu.be/l1yZV1jbKPA",
+    "percentToQualify": 100,
+    "password": "061742",
     "records": [
         {
             "user": "Sample_Victor_1",
